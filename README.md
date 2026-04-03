@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, i am EN ZHI XING 👋
+
+I am currently learning IoT 
 
 <!--
 **ZHIXING0208/ZHIXING0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
